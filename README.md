@@ -1,13 +1,5 @@
 # ⚡ Hi, I'm a37543406-boop! 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;C%23+%2F+.NET+Developer;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=a37543406-boop&label=Profile%20Views&color=0078d6&style=flat-square" alt="Visitor Counter" />
-</p>
-
 ---
 
 ### 🛡️ About Me
@@ -77,9 +69,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a37543406-boop&theme=tokyonight" width="100%" alt="Summary Card" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=100&section=footer" />
-</p>
 
