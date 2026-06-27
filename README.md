@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghvc/?username=a37543406-boop&label=Profile%20Views&color=0078d6&style=flat-square" alt="Visitor Counter" />
 </p>
 
@@ -83,13 +79,7 @@
 
 ---
 
-### 🎵 Coding Beats
-<p align="center">
-  <img src="https://novatorem-spotify-api.vercel.app/api/now-playing?background_color=1a1b26&text_color=c0caf5&bar_color=41a5f5" alt="Spotify Now Playing" width="350px" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=100&section=footer" />
 </p>
+
