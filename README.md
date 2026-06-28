@@ -11,10 +11,6 @@
 
 ### 🏅 My Unlocked Badges
 <p align="left">
-  <!-- YOLO -->
-  <img src="https://img.shields.io/badge/GitHub-YOLO-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Badge" />
-  <!-- Pull Shark -->
-  <img src="https://img.shields.io/badge/GitHub-Pull_Shark_Lv1-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Badge" />
   <!-- Quickdraw -->
   <img src="https://img.shields.io/badge/GitHub-Quickdraw-purple?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw Badge" />
 </p>
